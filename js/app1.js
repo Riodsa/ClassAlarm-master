@@ -88,7 +88,6 @@ function CountdownClock(){
     else if(time == 860 && seconds < 1.2) ShowAlertTimeNotification()
     else if(time == 910 && seconds < 1.2) ShowAlertTimeNotification()
     else if(time == 960 && seconds < 1.2) ShowAlertTimeNotification()
-    else if(time == 534 && seconds < 1.2) ShowAlertTimeNotification()
     year+=543;
     console.log(time)
     console.log(seconds)
